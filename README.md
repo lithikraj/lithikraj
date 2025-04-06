@@ -1,3 +1,16 @@
+Hi, I'm Lithikraj Narayana 👋
+
+I'm a passionate tech enthusiast and developer currently pursuing B.E in Information Technology at CBIT. I specialize in full-stack web and mobile app development, with hands-on experience in building robust applications using Flutter, React.js, Node.js, and MongoDB.
+
+I've explored machine learning through impactful projects like Driver Drowsiness Detection using CNNs. My cloud skills are sharpened by earning skill badges and completing certifications on Google Cloud.
+
+🔧 Tech Stack: Python, JavaScript, HTML5, CSS3, SQL, MongoDB<br/>
+🧠 Libraries/Frameworks: React.js, Node.js, Express.js, Flutter<br/>
+☁️ Tools: Git, GitHub, Visual Studio, Firebase, Google Cloud<br/>  
+📈 Interests: Real-time apps, AI-powered solutions, Cloud infrastructure<br/>
+
+I'm always up for challenging projects that solve real-world problems and improve user experiences.  
+Check out my [portfolio](https://lithikraj-portfolio.vercel.app/) to see what I’ve been working on!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.lithikraj2003@gmail.com) 
