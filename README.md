@@ -1,6 +1,6 @@
 Hi, I'm Lithikraj Narayana 👋
 
-I'm a passionate tech enthusiast and developer currently pursuing B.E in Information Technology at CBIT. I specialize in full-stack web and mobile app development, with hands-on experience in building robust applications using Flutter, React.js, Node.js, and MongoDB.
+I'm a passionate tech enthusiast and developer. I specialize in full-stack web and mobile app development, with hands-on experience in building robust applications using Flutter, React.js, Node.js, and MongoDB.
 
 I've explored machine learning through impactful projects like Driver Drowsiness Detection using CNNs. My cloud skills are sharpened by earning skill badges and completing certifications on Google Cloud.
 
