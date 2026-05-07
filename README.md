@@ -13,11 +13,6 @@
 
 ---
 
-<div align="center">
-
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lithikraj&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -174,7 +169,13 @@ Bytexl Product-Based Training
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lithikraj&layout=compact&theme=tokyonight&hide_border=true"/>
 
+
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lithikraj&theme=tokyonight"/>
+
+
 </div>
+
+
 
 <br/>
 
