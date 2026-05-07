@@ -170,9 +170,9 @@ Bytexl Product-Based Training
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithikraj&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lithikraj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithikraj&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lithikraj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -180,11 +180,11 @@ Bytexl Product-Based Training
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=lithikraj&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lithikraj&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+
 
 # 🌌 Developer Mindset
 
