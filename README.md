@@ -1,139 +1,90 @@
-````md
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Lithikraj%20Narayana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20AI%20Explorer%20|%20Security%20Learner&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,30:302b63,70:00c9ff,100:92FE9D&text=Lithikraj%20Narayana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Cloud%20Security%20Explorer&descAlignY=60&descSize=20"/>
 
-# 👋 Hey, I'm Lithikraj
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Enthusiast;AI+Explorer;Cybersecurity+Learner;Building+Secure+%26+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk\&weight=600\&size=30\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=950\&lines=Full+Stack+Developer;Cloud+%26+Security+Enthusiast;AI+%26+GenAI+Explorer;Building+Scalable+Digital+Experiences)](https://git.io/typing-svg)
+
+<br/>
+
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--      SOCIAL BADGES        -->
-<!-- ========================= -->
-
 <div align="center">
 
-<a href="https://lithikraj-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="mailto:n.lithikraj2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/lithikraj">
-<img src="https://img.shields.io/github/followers/lithikraj?style=for-the-badge&color=blue"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lithikraj&theme=tokyonight"/>
 
 </div>
 
 ---
-
-<!-- ========================= -->
-<!--        ABOUT ME           -->
-<!-- ========================= -->
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-💻 Passionate Full Stack Developer focused on building scalable and user-centric applications.
+<img align="right" width="383" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZybjA0d3M1ZmQ0Y3l1MWhwY2VhcG9rdm5kZXNlM2QxMzJqZm9jNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-☁️ Google Cloud certified learner with strong interest in Cloud Security & Infrastructure.
+</div>
 
-🧠 Exploring AI-powered systems, Generative AI security, and intelligent automation.
+```yaml id="gwd4i9"
+Name: Lithikraj Narayana
+Role: Full Stack Developer
+Specialization:
+  - Backend Engineering
+  - AI & Cloud Solutions
+  - Security Focused Applications
+  - Modern UI/UX Systems
 
-🔐 Interested in Cybersecurity, OWASP practices, IAM, API Security, and secure backend systems.
-
-🎨 Love creating modern UI/UX experiences with clean aesthetics and smooth interactions.
-
-🚀 Currently building secure backend systems and AI-powered applications.
-
----
-
-<!-- ========================= -->
-<!--      CURRENT FOCUS        -->
-<!-- ========================= -->
-
-# 🚀 Current Focus
-
-```yaml
-Learning:
+Currently Exploring:
   - Cloud Security
+  - Generative AI
   - LLM Security
-  - Advanced Backend Engineering
   - System Design
+```
 
-Building:
-  - HRMS Platform
-  - AI Financial Analysis System
-  - Secure API Architectures
+<br/>
 
-Goals:
-  - Become Security Engineer
-  - Build Scalable AI Products
-  - Master Cloud Infrastructure
-````
+💻 Passionate developer building scalable and secure applications with modern architectures.
+☁️ Google Cloud enthusiast focused on cloud infrastructure and security fundamentals.
+🤖 Exploring AI-powered systems, intelligent automation, and Generative AI workflows.
+🔐 Interested in cybersecurity, OWASP practices, API security, RBAC, and secure backend systems.
+🎨 UI/UX-focused developer who loves futuristic interfaces and clean digital experiences.
 
 ---
-
-<!-- ========================= -->
-
-<!--        TECH STACK         -->
-
-<!-- ========================= -->
 
 # ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,react,nodejs,express,django,flutter,mongodb,mysql,firebase,gcp,git,github,vscode,postman,tensorflow&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,express,django,flutter,mongodb,mysql,firebase,gcp,tensorflow,git,github,postman,vscode&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ========================= -->
-
-<!--       PROJECTS            -->
-
-<!-- ========================= -->
-
 # 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-## 📈 Financial Market Event Analysis
+## 📈 Financial Market AI
 
-AI-powered financial intelligence platform using:
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVtbmM4YTR4a3BvYTVuZzN5bnJqOHQ1d2Q4dnZpcjF5MmNzcHV5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
 
-* FinBERT
-* NLP
-* Gemini API
+### ⚡ Features
+
+* FinBERT + NLP
+* Gemini API Integration
 * RAG Architecture
-* T5 Models
-
-### Features
-
-* Sentiment Analysis
-* Retail Investor Assistant
-* Business Strategy Engine
-* AI Chatbot Integration
+* AI Investor Assistant
 * Financial News Intelligence
+* Sentiment Analysis Engine
 
 </td>
 
@@ -141,176 +92,135 @@ AI-powered financial intelligence platform using:
 
 ## 🔐 Cloud Security Monitoring
 
-Security-focused backend project exploring:
+<img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-* API Security
+### ⚡ Features
+
+* API Security Monitoring
 * IAM & RBAC
 * OWASP Top 10
 * Threat Modeling
 * Incident Detection
-* LLM Security Risks
-
-### Built With
-
-* Python
-* GCP
-* Django
-* DRF
-* REST APIs
+* LLM Security Risk Analysis
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<table>
-<tr>
-<td width="50%">
+# 🏢 HRMS Platform
 
-## 🏢 HRMS Platform
+<div align="center">
 
-Backend-driven employee management system.
+<img width="75%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### Features
+</div>
+
+### 🔥 Core Features
 
 * JWT Authentication
-* Role Based Access Control
+* Role-Based Access Control
 * Attendance Management
-* Approval Workflows
-* Secure REST APIs
-
-</td>
-
-<td width="50%">
-
-## 🤖 Driver Drowsiness Detection
-
-Machine Learning project using CNNs.
-
-### Features
-
-* Real-time Monitoring
-* Eye Detection
-* Drowsiness Alerts
-* Computer Vision
-* AI-powered Detection
-
-</td>
-</tr>
-</table>
+* Employee Workflows
+* Approval Systems
+* Secure REST APIs using Django & DRF
 
 ---
-
-<!-- ========================= -->
-
-<!--      ACHIEVEMENTS         -->
-
-<!-- ========================= -->
 
 # 🏆 Achievements & Certifications
 
 <div align="center">
 
-🥇 Google Cloud Associate Cloud Engineer
+<table>
+<tr>
+<td align="center" width="33%">
 
-💎 Diamond League Achiever — Google Cloud Skills Boost
+### ☁️ Google Cloud
 
-🏅 Bytexl Python Product-Based Training
+Associate Cloud Engineer
 
-☁️ Multiple Google Cloud Skill Badges
+</td>
+
+<td align="center" width="33%">
+
+### 💎 Skills Boost
+
+Diamond League Achiever
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍 Python Training
+
+Bytexl Product-Based Training
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-
-<!-- ========================= -->
-
-<!--      GITHUB STATS         -->
-
-<!-- ========================= -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithikraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithikraj&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithikraj&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithikraj&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff"/>
 
 </div>
 
----
-
-<!-- ========================= -->
-
-<!--      STREAK STATS         -->
-
-<!-- ========================= -->
-
-# 🔥 GitHub Streak
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lithikraj&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=lithikraj&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-
-<!--    PROFILE SUMMARY        -->
-
-<!-- ========================= -->
-
-# 📈 Contribution Graph
+# 🌌 Developer Mindset
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lithikraj&theme=tokyonight"/>
+```diff
++ Building intelligent systems
++ Designing futuristic interfaces
++ Learning secure architectures
++ Exploring scalable AI workflows
++ Creating impactful user experiences
+```
 
 </div>
 
 ---
 
-<!-- ========================= -->
-
-<!--     TROPHIES              -->
-
-<!-- ========================= -->
-
-# 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lithikraj&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<a href="mailto:n.lithikraj2003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+</a>
+
+<a href="https://github.com/lithikraj">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
 
 </div>
 
 ---
-
-<!-- ========================= -->
-
-<!--      RANDOM QUOTE         -->
-
-<!-- ========================= -->
-
-# ✨ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<!-- ========================= -->
-
-<!--       SNAKE GRAPH         -->
-
-<!-- ========================= -->
 
 # 🐍 Contribution Snake
 
@@ -322,61 +232,20 @@ Machine Learning project using CNNs.
 
 ---
 
-<!-- ========================= -->
-
-<!--      CONNECT              -->
-
-<!-- ========================= -->
-
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="mailto:n.lithikraj2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/lithikraj">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://lithikraj-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=react" />
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-
-<!--       VISITORS            -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=lithikraj&icon=6&color=12"/>
+### ✨ Building secure, scalable, and futuristic digital experiences ✨
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:92FE9D,30:00c9ff,70:302b63,100:0f0c29"/>
 
 </div>
-
----
-
-<!-- ========================= -->
-
-<!--       FOOTER              -->
-
-<!-- ========================= -->
-
-<div align="center">
-
-### ✨ "Building secure, scalable and intelligent systems for the future." ✨
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-```
